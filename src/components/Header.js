@@ -4,7 +4,7 @@ import { auth } from "../utils/firebase";
 import { useNavigate } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { addUser, removeUser } from "../utils/userSlice";
-import { toggleGptSearchView } from "../utils/gptSlice";
+import { addGptMovieResults, toggleGptSearchView } from "../utils/gptSlice";
 import { SUPPORTED_LANGUAGES } from "../utils/constants";
 import { changeLanguage } from "../utils/configSlice";
 export const Header = () => {
@@ -15,6 +15,7 @@ export const Header = () => {
     signOut(auth)
       .then(() => {
         // Sign-out successful.
+        dispatch(addGptMovieResults({ movieNames: null, movieResults: null }));
         navigate("/");
       })
       .catch((error) => {

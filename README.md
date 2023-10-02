@@ -14,20 +14,20 @@
 ## Screenshot
 
 - Sign Up / Sign In Page.
-  <img width="1440" alt="signUpPage" src="https://github.com/ankittkamal/NetflixGPT/assets/119441544/e0d9b499-dfae-4a32-bb76-86a5573d456b">
-  <img width="1440" alt="signInPage" src="https://github.com/ankittkamal/NetflixGPT/assets/119441544/df2c428d-b739-480a-acc9-c6f5af9b5599">
+  <img width="1440" alt="signUpPage" src="/assests/Signup.png">
+  <img width="1440" alt="signInPage" src="/assests/Login.png">
 
 - Browse Page with GPT Search button, sign out functionality, video trailer streaming on background and movies section.
-  <img width="1438" alt="BrowsePage" src="https://github.com/ankittkamal/NetflixGPT/assets/119441544/f3c50588-4e3a-48d4-947b-138b5f2a12c8">
+  <img width="1438" alt="BrowsePage" src="/assests/Home1.png">
 
 - Browse Page with TMDB Movie Result Section
-  <img width="1440" alt="BrowsePageMovieSection" src="https://github.com/ankittkamal/NetflixGPT/assets/119441544/9fda6448-baa3-45c3-8410-cb88bae51833">
+  <img width="1440" alt="BrowsePageMovieSection" src="/assests/Home2.png">
 
 - GPT Search Page with Multi-language Feature in Search.
-  <img width="1440" alt="GptSearchPage" src="https://github.com/ankittkamal/NetflixGPT/assets/119441544/339e281e-3efd-4cf0-9457-67507b1befa6">
+  <img width="1440" alt="GptSearchPage" src="/assests/GPTsearch1.png">
 
 - Movie Result from GPT search functionality.
-  <img width="1440" alt="GptSearchPageResult" src="https://github.com/ankittkamal/NetflixGPT/assets/119441544/5c3f4a0b-c4dc-4344-94f1-321d68a430fe">
+  <img width="1440" alt="GptSearchPageResult" src="/assests/GPTsearch.png">
 
 ---
 
