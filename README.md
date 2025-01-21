@@ -41,9 +41,9 @@
 Example:
 
 ```
-REACT_APP_OPENAI_KEY=sk-aasdadfsdfasdas234c
+REACT_APP_OPENAI_KEY
 
-REACT_APP_TMDB_API_KEY=eyJhbGciOiJIUsdvsa4.eyJhdWQiOiI1ODA0MjM5sacmVhZCJdLCJ2ZXJzaW9uIjoxfQ.5igOnTktDvXLZDPKIkIsdvsadvafv
+REACT_APP_TMDB_API_KEY
 ```
 
 5. Create a firebase project for web and enable Email/Password Authentication.
